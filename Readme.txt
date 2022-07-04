@@ -24,6 +24,7 @@ Node.js files must be initiated on the server before having any effect.
 Node.js files have extension ".js".
 
 Node modules:-
+
 http, https, fs, path, os these are some node core modules
 http helps us with lauching a server, also with other tasks like sending requests because a node app could also send a request to another server,
 https helps us with launching a SSL server where all code encrypted
